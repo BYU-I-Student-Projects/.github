@@ -5,6 +5,9 @@ type: "Feature"
 ---
 
 # Description
+
+<!-- This is usually done by the stake holder or the Project Manager.-->
+
 <!-- The big picture of a feature you want to add to your project. It has multiple functionalities. It can do multiple
 things. -->
 
@@ -25,6 +28,9 @@ things. -->
 <!-- Example: Add a user authentication system with login, signup, and password reset -->
 
 # Requirements
+
+<!-- Usually written by the developers --> 
+
 <!-- What must this feature do? Write the essential capabilities here. -->
 
 <!-- Think of this as the checklist of MUST-HAVE functions for the feature to be considered complete. -->
