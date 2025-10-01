@@ -1,3 +1,4 @@
+---
 name: "Feature"
 about: "Use this template for creating a new feature request"
 type: "Feature"
