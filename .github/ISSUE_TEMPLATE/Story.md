@@ -1,3 +1,4 @@
+---
 name: "Story"
 about: "Use this template for creating a new user story"
 type: "Story"
